@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pankajpyhton1706@gmail.com
+	name = Pankaj Patel
