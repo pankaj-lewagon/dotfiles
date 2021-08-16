@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = pankajpyhton1706@gmail.com
+	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
 	name = Pankaj Patel
